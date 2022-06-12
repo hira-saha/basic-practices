@@ -1,0 +1,47 @@
+    body {
+        margin: 50px;
+    }
+
+    h1 {
+        font-family: 'Oswald', sans-sarif;
+        text-align: center;
+        color: #363062;
+        padding: 5px;
+    }
+
+    p {
+        font-family: 'Fira+Sans', sans-serif;
+        text-align: center;
+        color: #293462;
+        padding: 5px;
+    
+    }
+
+    span {
+        color:rgb(105, 23, 64);
+    }
+
+    #this-is-it {
+        color: rgb(23, 105, 98);
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    img {
+        width: 150px;
+        height: 150px;
+        border-radius: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -75px;
+        display: block;
+
+    }
+header{
+    background-color: orange;
+    width: 800px;
+    margin: 100px auto 0 auto;
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 4px black ;
+}

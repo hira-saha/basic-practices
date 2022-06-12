@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(199, 151, 93, 0.616);
+    text-align: center;
+    font-size: 14px;
+    color: rgb(76, 0, 255);
+}
+
+h1 {
+    font-family: 'Lobster', sans-serif;
+
+}
+
+p {
+    font-family: 'Pacifico', sans-serif;
+    
+
+}
+
+a {
+    font-family: 'Macondo', sans-serif;
+    text-decoration: none;
+    color: rgb(247, 10, 42);
+}
+
+a:hover {
+    text-decoration: underline;
+}

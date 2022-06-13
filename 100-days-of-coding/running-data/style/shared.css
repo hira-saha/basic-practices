@@ -1,8 +1,11 @@
 body {
-    background-color: rgb(70, 50, 70);
-    margin: 0px;
+    font-family: "Lobster", sans-serif;
+    background-color: rgb(131, 190, 161);
+    margin: 3px;
+    
 }
 
 #page-logo a {
      
 }
+

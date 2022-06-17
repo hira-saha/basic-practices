@@ -12,3 +12,13 @@
     background-position: center;
     background-size: cover;
 }
+
+#hero-content {
+    width: 900px;
+    background-color: rgba(168, 122, 122, 0.356);
+    box-shadow: 2px 4px 8px rgba(178, 226, 222, 0.356) ;
+    border-radius: 8px;
+    text-align: center;
+    padding: 50px 0;
+    margin: 0 auto;
+}

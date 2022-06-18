@@ -8,7 +8,7 @@
 
 #hero {
     height: 800px;
-    background-image: url("/100-days-of-coding/running-data/images/places/ocean.jpg") ;
+    background-image: url("../images/places/ocean.jpg") ;
     background-position: center;
     background-size: cover;
 }

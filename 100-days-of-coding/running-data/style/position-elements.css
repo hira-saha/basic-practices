@@ -1,3 +1,6 @@
+html {
+    margin: 10px;
+}
 div {
     background-color:#c7c7c7;
     padding: 20px;
@@ -12,6 +15,7 @@ p {
 
 #container {
     background-color: #521751;
+    position: relative;
 }
 
 #container p {
@@ -24,10 +28,11 @@ p {
 
 #two {
     background-color: #c95bc7;
-    position: relative;
+    position: absolute;
+    top: 0;
     /* bottom: ;
     right:; */
-    top: 20px;
+    /* top: 200px  ; */
 }
 
 #three {

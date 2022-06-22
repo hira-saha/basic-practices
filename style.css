@@ -1,6 +1,13 @@
+body {
+    background-color: rgb(179, 226, 226);
+}
 a{
     text-decoration: none;
     background-color: wheat;
     color: blue;
     padding: 5px;
+}
+
+p {
+    background-color: aliceblue;
 }

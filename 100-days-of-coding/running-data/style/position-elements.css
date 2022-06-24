@@ -30,6 +30,9 @@ p {
     background-color: #c95bc7;
     position: absolute;
     top: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
     /* bottom: ;
     right:; */
     /* top: 200px  ; */

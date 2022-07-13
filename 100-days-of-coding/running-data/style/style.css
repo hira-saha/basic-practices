@@ -57,6 +57,14 @@
 background-color: rgb(255, 238, 0);
 }
 
+#highlight h2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+  color: #eb6a14;
+  margin: 24px 0;
+}
+
 #destinations {
     display: flex;
     width: 90%;
@@ -66,6 +74,15 @@ background-color: rgb(255, 238, 0);
 
 .destinations{
     margin: 0 20px;
+    text-transform: uppercase;
+}
+
+.destinations p {
+    text-align: center;
+    font-size: 24px;
+    color: rgb(124, 123, 123);
+    margin: 20px 0;
+    
 }
 
 .destinations img
@@ -76,3 +93,8 @@ box-shadow: 2px 4px 8px rgb(68, 67, 67);
 border-radius: 10px;
 object-fit: cover;
  }
+
+.destinations strong {
+    color: rgb(0, 29, 121);
+ }
+

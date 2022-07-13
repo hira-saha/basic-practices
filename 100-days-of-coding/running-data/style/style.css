@@ -61,12 +61,13 @@ background-color: rgb(255, 238, 0);
   text-transform: uppercase;
   text-align: center;
   font-size: 40px;
-  color: #eb6a14;
+  color: #b96832c5;
   margin: 24px 0;
 }
 
 #destinations {
     display: flex;
+    justify-content: center;
     width: 90%;
     margin: auto;
     margin-bottom: 40px;

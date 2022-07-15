@@ -59,6 +59,7 @@ background-color: rgb(255, 238, 0);
 
 #highlight {
     padding: 24px;
+    background: linear-gradient(0deg, rgb(227, 255, 253), rgb(10, 134, 126));
 }
 
 #highlight h2 {
